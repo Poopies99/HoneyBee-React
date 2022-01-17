@@ -21,7 +21,7 @@ This github repository contains the project code for HoneyBee-React Full-Stack p
 
 Firebase - Google: Utilized Firebase as a backend Database to Host, Authenticate, Analyze and Store User Order Information.
   
-Firestore Cloud Database allows for quick and easy breakdown of each user and their activities and order history
+Firestore Cloud Database allows for quick and easy breakdown of each user and their activities and order history. This allows for user data to be easily accessed and displayed in front-end.
   
 <img src="https://user-images.githubusercontent.com/69495787/149737752-a47cdd0e-fc39-4235-b2d5-39a0676507f8.png" width="800">
 <img src="https://user-images.githubusercontent.com/69495787/149737766-e04217a2-490a-4190-a4c4-6a08630d9890.png" width="800">
