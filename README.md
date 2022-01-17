@@ -26,6 +26,14 @@ Firestore Cloud Database allows for quick and easy breakdown of each user and th
 <img src="https://user-images.githubusercontent.com/69495787/149737752-a47cdd0e-fc39-4235-b2d5-39a0676507f8.png" width="800">
 <img src="https://user-images.githubusercontent.com/69495787/149737766-e04217a2-490a-4190-a4c4-6a08630d9890.png" width="800">
 
+## Stripe:
+	
+Stripe platform is used to collect payment for each purchase, Stripe API allows easy payment integration and purchase tracking
+	
+<img src="https://user-images.githubusercontent.com/69495787/149742559-460a4d93-dd8c-492f-aedc-bc6d28dbaa47.png" width="800">
+
+	
+
 ## Views:
 
 ### Desktop: 
