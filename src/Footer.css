@@ -1,0 +1,30 @@
+.Footer {
+    /* background-color: rgb(221, 191, 147); */
+    background-color: #fae9d9;
+    height: 175px;
+    width: 100%;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    margin-top: 15px;
+    font: small;
+    font-weight: lighter;
+    font-style: oblique;
+    letter-spacing: 3px;
+}
+
+.Footer__image {
+    object-fit: contain;
+    width: 100px;
+}
+
+.Footer__title {
+    margin-bottom: 8px;
+}
+
+.Footer__link {
+    margin-bottom: 8px;
+    cursor: pointer;
+    text-decoration: underline;
+    text-decoration-color: rgb(7, 0, 1);
+}
